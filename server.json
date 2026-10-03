@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TheCompanyAtlas/florida-sunbiz",
+  "title": "Florida Sunbiz Company & Officer Data",
+  "description": "Florida Sunbiz corporation, LLC and non-profit search with officer and registered agent lookup.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/TheCompanyAtlas/florida-sunbiz-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://thecompanyatlas.com/mcp/connect/florida",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://thecompanyatlas.com/mcp/florida"
+    }
+  ]
+}
