@@ -8,7 +8,7 @@
     "url": "https://github.com/TheCompanyAtlas/florida-sunbiz-mcp",
     "source": "github"
   },
-  "websiteUrl": "https://thecompanyatlas.com/mcp/connect/florida",
+  "websiteUrl": "https://thecompanyatlas.com/tools/sunbiz-florida",
   "remotes": [
     {
       "type": "streamable-http",
