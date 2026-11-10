@@ -3,7 +3,7 @@
   "name": "io.github.TheCompanyAtlas/florida-sunbiz",
   "title": "Florida Sunbiz Company & Officer Data",
   "description": "Florida Sunbiz corporation, LLC and non-profit search with officer and registered agent lookup.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/TheCompanyAtlas/florida-sunbiz-mcp",
     "source": "github"
